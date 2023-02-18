@@ -1,5 +1,5 @@
 const hello = 'Hola';
 
 () => {
-    return false;
+    return null;
 }
