@@ -1,5 +1,6 @@
 const hello = 'Hola';
 
 () => {
-    return false;
+    const a = 1;
+    return true;
 }
